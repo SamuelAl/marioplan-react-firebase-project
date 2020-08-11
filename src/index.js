@@ -50,7 +50,6 @@ ReactDOM.render(
         <AuthIsLoaded>
           <App />
         </AuthIsLoaded>
-        
       </ReactReduxFirebaseProvider>
     </Provider>
   </React.StrictMode>,
